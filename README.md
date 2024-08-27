@@ -1,0 +1,2 @@
+# minture
+Minimal color pallet
